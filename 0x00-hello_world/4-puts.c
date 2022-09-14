@@ -1,7 +1,8 @@
 /*
- * file :4-puts.c
+ *File :4-puts.c
  * autore:Abir .S
  */
+
 #include <stdio.h>
 /*
  * main :prints "Programming is like building a multilingual
