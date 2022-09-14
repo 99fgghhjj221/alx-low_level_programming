@@ -9,10 +9,8 @@
  *
  *  return : Always zero
  */
-int main(void)
-	/*
-	 * main is a function
-	 */
+int main(void)/*THIS IS MAIN FUNCTION*/
+	
 {
 	puts("\"Programming is like building a multilingual puzzle");
 return (0);
