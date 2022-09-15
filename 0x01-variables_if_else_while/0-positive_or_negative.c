@@ -1,9 +1,14 @@
 #include <stdlib.h>
-
 #include <time.h>
 #include <stdio.h>
 
 int main(void)
+	/**
+	 * THIS IS THE MAIN FUNCTION 
+	 * WHICH EXECUTE 
+	 * EVERY THING
+	 *
+	 */
 {
 	int n;
 	srand(time(0));
