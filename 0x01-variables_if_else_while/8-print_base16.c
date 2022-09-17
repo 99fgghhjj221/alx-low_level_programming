@@ -24,8 +24,8 @@ int main(void)
 	for (; hex <= 'f'; hex++)
 	{
 		putchar(hex);
-	}	
-	putchar('\n');
+	}
+putchar('\n');
 
-	return (0);
+return (0);
 }
