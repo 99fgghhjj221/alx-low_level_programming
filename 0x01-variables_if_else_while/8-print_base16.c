@@ -21,9 +21,8 @@ int main(void)
 		putchar(i + '0');
 		i = i % 10;
 	}
-	for (; hex < 'f'; hex++)
-		putchar(hex);
-	
+	for (; hex <= 'f'; hex++)
+		putchar(hex);	
 	putchar('\n');
 
 	return (0);
