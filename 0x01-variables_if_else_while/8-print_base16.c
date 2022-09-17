@@ -22,7 +22,10 @@ int main(void)
 		i = i % 10;
 	}
 	for (; hex <= 'f'; hex++)
-		putchar(hex);	
+	{
+		putchar(hex);
+	}
+		
 	putchar('\n');
 
 	return (0);
