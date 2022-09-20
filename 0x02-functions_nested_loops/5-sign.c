@@ -8,6 +8,7 @@
  * print_sign - prints the sign of a number.
  * @n: to be cecked
  *
+ * Return: ghjk
  */
 int print_sign(int n)
 {
