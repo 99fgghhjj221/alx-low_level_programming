@@ -6,7 +6,7 @@
 #include "main.h"
 
 /**
- * 2-print_alphabet_x10.c - print what to do
+ * print_alphabet_x10 - print what to do
  */
 void print_alphabet_x10(void)
 {
