@@ -6,7 +6,7 @@
 
 /**
  * print_sign - prints the sign of a number.
- * @C: to be checked
+ * @n: to be cecked
  *
  */
 int print_sign(int n)
