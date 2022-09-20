@@ -1,11 +1,11 @@
 /*
- * File: 0-putchar.c
- * Auth: abir
+ * File: _putchar.c
+ * Auth: AbirS
  */
-#include "_putchar.h"
+#include "_putchar.c"
 
 /**
- * main - prints _putchar, followed by a new line.
+ * main - print putchar 
  *
  * Return: Always 0
  */
@@ -17,9 +17,6 @@ int main(void)
 	_putchar('t');
 	_putchar('c');
 	_putchar('h');
-	_putchar('a');
 	_putchar('r');
-	_putchar('\n');
-
 return (0);
 }
